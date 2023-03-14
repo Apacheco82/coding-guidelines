@@ -103,4 +103,4 @@ const first = arr[0];
 const second = arr[1];
 
 //good
-
+const [first, second] = arr;
