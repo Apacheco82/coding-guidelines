@@ -47,6 +47,11 @@ const bad = {
 };
 
 //good
+const good = {
+    foo: 3,
+    bar: 4,
+    dataBlah: 5,
+};
 
 
 // bad

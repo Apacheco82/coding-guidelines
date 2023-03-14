@@ -12,4 +12,4 @@ const diHola = (nombre) =>{
 const name = "Capt. Janeway";
 
 //good
-
+const nameCaptain = "Capt. Janeway"
